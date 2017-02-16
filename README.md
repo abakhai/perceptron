@@ -9,10 +9,12 @@
  =  @author Dr Noureddin Sadawi 
  
  =  This program is free software: you can redistribute it and/or modify
-    it as you wish ONLY for legal and ethical purposes
+    it as you wish ONLY for legal and ethical purposes.
   
  =  I ask you only, as a professional courtesy, to cite my name, web page 
     and my YouTube Channel!
    
  =    Code adapted from:
     https://github.com/RichardKnop/ansi-c-perceptron
+    
+ =  For those not using Eclipse, compile the Perceptron.java file separately from the project.
