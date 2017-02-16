@@ -2,7 +2,7 @@
  
  =  By Dr Noureddin Sadawi
  
- =  Please watch my youtube videos on perceptron for things to make sense!
+ =  Please watch my youtube videos on perceptron for things to make sense! : https://youtu.be/4aksMtJHWEQ
  
  =  Copyright (C) 2014 
  
