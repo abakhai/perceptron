@@ -15,10 +15,7 @@
  *    https://github.com/RichardKnop/ansi-c-perceptron
  */  
 
-import java.util.*;
-import java.io.*;
 import java.text.*;
-import java.math.*;
 
 class Perceptron
 {
