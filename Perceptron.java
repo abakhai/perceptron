@@ -1,7 +1,8 @@
 /**
  *  The Perceptron Algorithm
  *  By Dr Noureddin Sadawi
- *  Please watch my youtube videos on perceptron for things to make sense!
+ *  (Adapted by Mayank Gupta)
+ *  Please watch my Youtube videos on perceptron for things to make sense!
  *  Copyright (C) 2014 
  *  @author Dr Noureddin Sadawi 
  *  
