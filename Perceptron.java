@@ -119,8 +119,8 @@ class Perceptron
 	 * @param theta an integer value for the threshold
 	 * @param weights[] the array of weights
 	 * @param x the x input value
-	 * @param y the y input value
-	 * @param z the z input value
+	 * @param x2 the x2 input value
+	 * @param x3 the x3 input value
 	 * @return 1 or 0
 	 */ 
 	static int calculateOutput(int theta, double weights[], double x1, double x2, double x3)
