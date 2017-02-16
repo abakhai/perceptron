@@ -53,7 +53,7 @@ class Perceptron
 
 		double[] weights = new double[4];// 3 for input variables and one for bias
 		double localError, globalError;
-		int i, p, iteration, output;
+		int iteration, output;
 
 		weights[0] = randomNumber(0,1);// w1
 		weights[1] = randomNumber(0,1);// w2
@@ -65,7 +65,7 @@ class Perceptron
 			iteration++;
 			globalError = 0;
 			//loop through all instances (complete one epoch)
-			for (p = 0; p < NUM_INSTANCES; p++) {
+			for (int p = 0; p < NUM_INSTANCES; p++) {
 				// calculate predicted class
 				output = calculateOutput(theta,weights, x1[p], x2[p], x3[p]);
 				// difference between predicted and actual class values
